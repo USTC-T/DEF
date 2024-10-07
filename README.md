@@ -21,7 +21,7 @@ University of Science and Technology of China
 
 This repository is the official implementation of "DFE-Dehaze: An Efficient Dual-Frequency Domain Enhanced Framework for Image Dehazing". **Additional information will be fully disclosed upon the acceptance of the paper.**
 
-[1. Overall Architecture]()      [2. Getting Started]()         [3. Results]()
+[1. Overall Architecture](#overall-architecture)      [2. Getting Started](#getting-started)         [3. Results](#improvement-effect-results-of-other-model)
 
 ## News
 We are sorry, there is nothing for the time being :-)
